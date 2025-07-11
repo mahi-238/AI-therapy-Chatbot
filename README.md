@@ -108,4 +108,4 @@ In short, do this:
     [model]
     size=<img-size>
     ```
-# AI-therapy-Chatbot
+
