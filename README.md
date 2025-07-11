@@ -7,15 +7,12 @@
 
 # Table of Contents
 * [How this app can help in treatment?](#how-can-help)
-* [Publications](#pubs)
-* [Quick demonstration video](#demo)
 * [Current technologies and heuristics used](#techs)
 * [App Overview](#overview)
 * [Getting Started](#starting)
-  * [Firefox Issue :warning:](#firefox-issue)
-  * [Installation](#install)
-  * [Default Usage](#default-usage)
-  * [Custom Usage](#custom-usage)
+* [Firefox Issue :warning:](#firefox-issue)
+* [Default Usage](#default-usage)
+* [Custom Usage](#custom-usage)
  
 
 <br>
@@ -41,17 +38,9 @@ The main goal is to provide a web aplication that is capable of filtering out re
       > :zap: Getting sense of the patient's progress through interactions can aid in decision making.
 <br>
 
-<a name="pubs"></a>
-## 📰 Publications
-* Publication 1 (BRACIS Paper - Springer): [Event Detection in Therapy Sessions for Children with Autism](https://link.springer.com/chapter/10.1007/978-3-031-21689-3_17) <br>
-* Publication 2 (Computer on the Beach Periodical - Free/Open): [Event detection in therapy sessions for children with Autism](https://periodicos.univali.br/index.php/acotb/article/view/19507/11309) <br>
-* Undergrad Thesis (Free/Open - pt-br): [A Tool to aid Autism Spectrum Disorder therapies using Machine Learning](https://repositorio.ufsc.br/bitstream/handle/123456789/248134/tcc-alexandre-soli-soares.pdf)
-<br>
 
 <a name="demo"></a>
-## ▶️ Quick demonstration video
-> https://www.youtube.com/watch?v=S3w9jncUsQc
-<br>
+
 
 <a name="techs"></a>
 ## 📝 Current technologies and heuristics used
