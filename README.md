@@ -81,21 +81,6 @@ You're gonna need [Python](https://www.python.org/) (3.8 or higher), [Pip](), [G
 > :warning: Use Chromium-based browsers. In this v1.0.0, the timeline rendering occurs *bellow* the video playback, and not *inside* above the loading bar like YouTube does. Streamlit in Chromium-based browsers create the loading bar accross the whole video window, so the rendered timeline can be nicelly stretched. This is a visualization issue for Firefox for example, where the loading bar is just a section of the whole window lenght.
 
 > :zap: To perform detection tasks we recommend a GPU with more than 4Gb VRAM
-
-<a name="install"></a>
-### Installation
-Clone this repo (or download the zip file):</br>
-```bash
-git clone https://github.com/solisoares/therapy-aid-tool.git
-```
-
-Then install requirements:</br>
-```bash
-cd therapy-aid-tool
-python -m venv venv
-source venv/bin/activate
-pip install -e .
-```
 <a name="default-usage"></a>
 ### Default Usage
 This will run the app with the small YOLO model that can be used with a decent cpu.
